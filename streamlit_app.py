@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 
-# For demonstration purposes, let's recreate the DataFrames
 rasff = pd.read_csv('rasff.csv')
 
 # Convert all relevant columns to string
