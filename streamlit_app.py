@@ -1,9 +1,6 @@
 import pandas as pd
 import streamlit as st
 
-# Sample DataFrames (assuming they are already created as per previous discussions)
-# pivot_df, pivot_ireland_df, sorted_grouped_df1, sorted_grouped_df2, sorted_grouped_df3
-
 # For demonstration purposes, let's recreate the DataFrames
 rasff = pd.read_csv('rasff.csv')
 
